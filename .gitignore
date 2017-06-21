@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Migration/Scraper/.vs/ScrapeForC1CMS/v15
+/Migration/Scraper/packages/HtmlAgilityPack.1.4.9.5
+/Migration/Scraper/packages/HtmlAgilityPack.1.4.9.5
